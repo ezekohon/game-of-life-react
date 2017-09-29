@@ -52,3 +52,23 @@ h1, h2, h3, h4 {
 h4 {
   margin-top: 0px;
 }
+
+footer {
+  text-align: center;
+  margin: 30px;
+}
+
+footer > * {
+  display: block;
+  margin: 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: #868080; }
+  .link:hover, .link:active {
+    color: #DA4F4F;
+    text-decoration: none; }
+
+
+
