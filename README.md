@@ -19,4 +19,4 @@ Project uses:
 
 
 
-[App Demo](https://build-zcvcbmttbf.now.sh/)
+[App Demo](react-life.now.sh)
