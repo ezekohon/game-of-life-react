@@ -18,5 +18,4 @@ Project uses:
 - React-bootstrap
 
 
-
-[App Demo](react-life.now.sh)
+App Demo: https://react-life.now.sh
